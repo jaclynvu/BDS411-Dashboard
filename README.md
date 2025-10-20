@@ -1,6 +1,6 @@
 # BDS411-Dashboard
 
-Co-Authors: Morgan K Anderson, Connor Michael Eck, Daniel Hickey, & Hung Phan
+Co-Authors: Morgan K Anderson, Connor Michael Eck, Daniel Hickey, Hung Phan, & Jaclyn Vu
 
 This is a project from our Biological Data Science course: Analysis of Biological Data: Case Studies
 
